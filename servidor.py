@@ -32,7 +32,7 @@ def receber_arquivo(conexao):
 def main():
     servidor_host = 'localhost'
     servidor_porta = 5001 #porta de sua preferencia
-    timeout_segundos = 10
+    timeout_segundos = 60
 
     servidor_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     servidor_socket.bind((servidor_host, servidor_porta))
