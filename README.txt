@@ -1,3 +1,5 @@
+Alunos: Adriano Araújo Dutra, Ângelo Hernandez Mazarin, Eduardo Melo Nunes e Leonardo Vargas de Paula. 
+
 Instalação:
 
 Certifique-se de ter Python instalado.
